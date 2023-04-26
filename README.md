@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mica, user interface designer
-- 👀 I’m interested in interfaces gamified and videogames with Unity and C#
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: micaelaac03@gmail.com
 
